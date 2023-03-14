@@ -1,7 +1,7 @@
 {
   "name": "node-js",
   "version": "1.0.0",
-  "description": "ulbi tv channel",
+  "description": "learn-nodejs",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
